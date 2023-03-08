@@ -11,3 +11,7 @@
 ## 2. Programming a Guessing Game
 
 <https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html>
+
+## 3.1. Variables and Mutability
+
+<https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html>
