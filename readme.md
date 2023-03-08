@@ -15,3 +15,7 @@
 ## 3.1. Variables and Mutability
 
 <https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html>
+
+## 3.2. Data Types
+
+<https://doc.rust-lang.org/book/ch03-02-data-types.html>
