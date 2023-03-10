@@ -23,3 +23,7 @@
 ## 3.3. Functions
 
 <https://doc.rust-lang.org/book/ch03-03-how-functions-work.html>
+
+## 3.5. Control Flow
+
+<https://doc.rust-lang.org/book/ch03-05-control-flow.html>
