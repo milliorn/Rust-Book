@@ -19,3 +19,7 @@
 ## 3.2. Data Types
 
 <https://doc.rust-lang.org/book/ch03-02-data-types.html>
+
+## 3.3. Functions
+
+<https://doc.rust-lang.org/book/ch03-03-how-functions-work.html>
