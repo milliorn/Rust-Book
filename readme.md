@@ -27,3 +27,7 @@
 ## 3.5. Control Flow
 
 <https://doc.rust-lang.org/book/ch03-05-control-flow.html>
+
+## 4.1. What is Ownership?
+
+<https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html>
