@@ -31,3 +31,7 @@
 ## 4.1. What is Ownership?
 
 <https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html>
+
+## 4.2. References and Borrowing
+
+<https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html>
