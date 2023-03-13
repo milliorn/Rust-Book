@@ -35,3 +35,7 @@
 ## 4.2. References and Borrowing
 
 <https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html>
+
+## 4.3. The Slice Type
+
+<https://doc.rust-lang.org/book/ch04-03-slices.html#the-slice-type>
